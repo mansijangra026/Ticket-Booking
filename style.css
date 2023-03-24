@@ -38,7 +38,7 @@ body {
 }
 
 .seat {
-  background-color: #484858;
+  background-color: #f2f2f7;
   height: 26px;
   width: 32px;
   margin: 3px;
@@ -98,7 +98,7 @@ body {
 }
 
 .screen {
-  background-color: #f0eded;
+  background-color: #ffffff;
   height: 120px;
   width: 100%;
   margin: 15px 0;
